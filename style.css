@@ -1,0 +1,123 @@
+.header {
+
+    text-align: center;
+    background-color: steelblue;
+    color: white;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 5px;
+
+
+
+}
+
+#about {
+    color: steelblue;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+#about h2 {
+    margin-left: 7px;
+}
+
+#about img {
+
+    width: 150px;
+    border-radius: 50%;
+    margin-left: 5%;
+}
+
+
+
+
+nav a {
+    display: inline-block;
+    padding: 10px 15px;
+    color: white;
+    text-decoration: none;
+    border: 1px solid;
+    border-radius: 20px;
+    margin: 5px;
+
+}
+
+#skills {
+    background-color: whitesmoke;
+    border-radius: 15px;
+    margin-left: 5PX;
+    margin-right: 5px;
+    padding: 10px 15px;
+    margin: 15px;
+}
+
+#html {
+    border-radius: 15px;
+    background-color: darkgray;
+    display: inline-block;
+
+    padding: 15px;
+}
+
+#css {
+
+
+    border-radius: 15px;
+    background-color: darkgray;
+    display: inline-block;
+    margin-left: 5px;
+    padding: 15px;
+}
+
+#java {
+    border-radius: 15px;
+    background-color: darkgray;
+    display: inline-block;
+    margin-left: 5px;
+    padding: 15px;
+}
+
+#react {
+    border-radius: 15px;
+    background-color: darkgray;
+    display: inline-block;
+    margin-left: 5px;
+    padding: 15px;
+}
+
+#exp {
+
+    background-color: whitesmoke;
+    border-radius: 15px;
+    padding: 15px;
+    border-left: 4px skyblue;
+}
+
+#img img {
+    width: 50px;
+    background-color: grey
+}
+
+#front img {
+    width: 50px;
+    background-color: gray;
+    border-radius: 15px;
+
+
+}
+
+#contactme {
+    background-color: steelblue;
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+
+}
+
+#contactme a {
+
+    margin: 10px;
+}
